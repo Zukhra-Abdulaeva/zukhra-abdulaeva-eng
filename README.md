@@ -17,7 +17,7 @@ My focus: robust, testable software solutions that solve real engineering proble
 ---
 
 ## 🌟 Featured projects (pinned repositories)
-...
+...in processing
 
 ---
 
@@ -36,12 +36,12 @@ My focus: robust, testable software solutions that solve real engineering proble
 ---
 
 ## 📫 Contact me
-📍 MMunich, Germany  
+📍 Munich, Germany  
 ✉️ zukhra.abdulaeva@outlook.de  
 📞 +49 176 73223341
 
 ---
 
-## 🔗 .
-- LinkedIn — 
+## 🔗 Social accounts
+- LinkedIn —  www.linkedin.com/in/z-abdulaeva-532470376
 
